@@ -1,0 +1,23 @@
+,X,Y,Z,gx,gy,gz,step1_datatype,contact_type
+19,1.19,5.54,2.09,-0.4,0.02,0.91,other contact,floor
+18,2.09,2.14,2.09,-0.02,0.01,1,other contact,floor
+16,6.69,8.91,4.13,-0.48,0.04,0.88,other contact,floor
+15,6.76,7.95,4.21,-0.44,0.01,0.9,extra,other contact
+22,9.86,5.49,5.08,0.03,-0.01,1,other contact,floor
+20,10.08,4.51,5.11,0.03,-0.02,1,other contact,floor
+23,10.13,0.1,5.11,0.03,0.02,1,other contact,floor
+6,0,0.19,4.86,0,-0.01,1,inet contact,roof
+10,0.06,5.66,5.09,0.01,-0.02,1,inet contact,roof
+3,0.98,5.39,4.87,0.02,-0.02,1,inet contact,roof
+2,1.15,7.92,5.25,0.01,-0.01,1,inet contact,roof
+9,2.05,2.16,5.02,-0.01,0.04,1,inet contact,roof
+1,2.16,9.88,5.05,-0.17,-0.01,0.99,inet contact,roof
+7,3.35,8.96,5.22,-0.45,-0.02,0.89,inet contact,roof
+0,3.46,0.09,5.19,-0.43,0.04,0.9,inet contact,roof
+14,4.43,4.41,5.94,-0.68,-0.03,0.73,inet contact,roof
+13,4.54,6.73,6.23,-0.64,-0.03,0.77,inet contact,roof
+4,6.58,2.16,8.09,-0.48,-0.02,0.88,inet contact,roof
+12,7.6,3.27,8.06,-0.1,0,1,inet contact,roof
+8,8.91,0.02,8.26,0.03,0.03,1,inet contact,roof
+5,9.81,9.85,7.93,0.06,0.03,1,inet contact,roof
+11,10.12,2.34,8.33,0.03,-0.01,1,inet contact,roof
